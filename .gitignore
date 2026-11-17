@@ -1,15 +1,9 @@
-# 1. Ignore everything by default
-*
-
-# 2. But DO NOT ignore the docs folder and everything inside it
-!docs/
-!docs/**
-
-# 3. Keep your standard ignores just to be safe
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .positai
+blupf90_documentation
+
 /.quarto/
 **/*.quarto_ipynb
