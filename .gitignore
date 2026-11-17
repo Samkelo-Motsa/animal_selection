@@ -1,9 +1,25 @@
+/Lectures/
+/_extensions/
+/_site/
+/images/
+
+/Quarto.Rproj
+/_publish.yml
+/_quarto.yml
+/about.qmd
+/documentation.qmd
+/index.qmd
+/lab201.qmd
+/references.bib
+/styles.css
+/.gitignore
+
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .positai
-blupf90_documentation
+
 
 /.quarto/
 **/*.quarto_ipynb
