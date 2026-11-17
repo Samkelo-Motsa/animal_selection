@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto"
+  title: "Special Topics in Animal Selection"
   navbar:
     left:
       - href: index.qmd
