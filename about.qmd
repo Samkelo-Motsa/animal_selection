@@ -26,9 +26,9 @@ bibliography: references.bib
 
 ## Lecture 1. Introduction to BLUPF90 family of programs
 
-> The slides included in this lecture are a property of the **BLUPF90 development team at the University of Georgia (UGA)**. They are publicly available on the official BLUPF90 [website](https://nce.ads.uga.edu/wiki/doku.php?id=start). All rights and credit belong to the original authors. They are reused here for educational purposes.
+> In this lecture, we introduce the basics of the BLUPF90 family of programs. There are many similar resources online where one can find similar information. Of course, one of the recommended sources is that of the BLUPF90 development team at the University of Georgia (UGA), which is publicly available on the official BLUPF90 [website](https://nce.ads.uga.edu/wiki/doku.php?id=start). Some of the contents of this lecture have been adapted from 2025 course materials that were held in Valencia, Spain, in 2025.
 
-{{< downloadthis Lectures/DAY1_introduction_to_blupf90_software_suite.pdf dname="Lecture 1. Introduction to BLUPF90" label="Download Slides" icon="download" type="info" id=btn3 >}}
+{{< downloadthis Lectures/Introduction.pptx dname="Lecture 1. Introduction to BLUPF90" label="Download Slides" icon="download" type="info" id=btn3 >}}
 
 ## Lecture 2. Introduction to Genomic Selection
 
