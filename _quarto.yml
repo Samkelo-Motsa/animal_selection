@@ -10,8 +10,6 @@ website:
         text: Home
       - href: about.qmd
         text: Lectures
-      - href: lab201.qmd
-        text: lab201
       - href: documentation.qmd
         text: documentation
 

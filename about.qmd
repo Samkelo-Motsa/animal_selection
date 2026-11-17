@@ -34,7 +34,7 @@ bibliography: references.bib
 
 > In this lecture, we introduce the concept of **genomic selection** and the data that makes it possible. We begin by defining what genomic data is and what it looks like in practice from SNP chips and genotype matrices to the marker maps that describe them. We then cover the fundamentals of **quality control (QC) for genomic data**, including the common filters applied to markers and samples before any analysis, and why these steps are essential for producing reliable genomic predictions.
 
-{{< downloadthis Lectures/Special_Topics_in_Animal_Selection_final_lecture.pptx dname="Lecture 2. Introduction to Genomic Prediction" label="Download Slides" icon="download" type="info" id=btn3 >}}
+{{< downloadthis Lectures/Special_Topics_in_Animal_Selection.pptx dname="Lecture 2. Introduction to Genomic Prediction" label="Download Slides" icon="download" type="info" id=btn3 >}}
 
 # LAB Practicals
 
@@ -328,7 +328,7 @@ As noted in the textbook, this equation has a dependency between fixed effects, 
 <summary><strong>Click to show/hide fixed and random effect solutions</strong></summary>
 
 | Fixed effect | New level | Original level/ID | Solution | S.E. |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | Herd | 1 | 1 | 25.62119 | 11.54946 |
 | Herd | 2 | 2 | 32.87434 | 11.20790 |
 | Herd | 3 | 3 | 30.74646 | 11.71726 |

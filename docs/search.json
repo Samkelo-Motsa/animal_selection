@@ -67,7 +67,7 @@
     "href": "about.html",
     "title": "Lectures",
     "section": "",
-    "text": "The slides included in this lecture are a property of the BLUPF90 development team at the University of Georgia (UGA). They are publicly available on the official BLUPF90 website. All rights and credit belong to the original authors. They are reused here for educational purposes.\n\n Download Slides \n\n\n\n\nIn this lecture, we introduce the concept of genomic selection and the data that makes it possible. We begin by defining what genomic data is and what it looks like in practice from SNP chips and genotype matrices to the marker maps that describe them. We then cover the fundamentals of quality control (QC) for genomic data, including the common filters applied to markers and samples before any analysis, and why these steps are essential for producing reliable genomic predictions."
+    "text": "The slides included in this lecture are a property of the BLUPF90 development team at the University of Georgia (UGA). They are publicly available on the official BLUPF90 website. All rights and credit belong to the original authors. They are reused here for educational purposes.\n\n Download Slides \n\n\n\n\nIn this lecture, we introduce the concept of genomic selection and the data that makes it possible. We begin by defining what genomic data is and what it looks like in practice from SNP chips and genotype matrices to the marker maps that describe them. We then cover the fundamentals of quality control (QC) for genomic data, including the common filters applied to markers and samples before any analysis, and why these steps are essential for producing reliable genomic predictions.\n\n Download Slides"
   },
   {
     "objectID": "about.html#lecture-1.-introduction-to-blupf90-family-of-programs",
@@ -81,7 +81,7 @@
     "href": "about.html#lecture-2.-introduction-to-genomic-selection",
     "title": "Lectures",
     "section": "",
-    "text": "In this lecture, we introduce the concept of genomic selection and the data that makes it possible. We begin by defining what genomic data is and what it looks like in practice from SNP chips and genotype matrices to the marker maps that describe them. We then cover the fundamentals of quality control (QC) for genomic data, including the common filters applied to markers and samples before any analysis, and why these steps are essential for producing reliable genomic predictions."
+    "text": "In this lecture, we introduce the concept of genomic selection and the data that makes it possible. We begin by defining what genomic data is and what it looks like in practice from SNP chips and genotype matrices to the marker maps that describe them. We then cover the fundamentals of quality control (QC) for genomic data, including the common filters applied to markers and samples before any analysis, and why these steps are essential for producing reliable genomic predictions.\n\n Download Slides"
   },
   {
     "objectID": "index.html",
