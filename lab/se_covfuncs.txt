@@ -1,0 +1,3 @@
+10000 P  - Function: g_4_4_1_1+r_1_1   Mean:    5.8000      Sample Mean:    5.7680      Sample SD:    3.7021    
+10000 heritability  - Function: g_4_4_1_1/(g_4_4_1_1+r_1_1)   Mean:    1.0000      Sample Mean:    1.0000      Sample SD:   0.17206E-03
+10000 H2  - Function: g_4_4_1_1/(g_4_4_1_1+r_1_1)   Mean:    1.0000      Sample Mean:    1.0000      Sample SD:   0.17206E-03

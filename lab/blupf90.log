@@ -1,0 +1,35 @@
+ BLUPF90+ ver. 2.63
+ In round         66 convergence =  0.904565012009E-12
+ delta convergence =  0.328816626381E-05
+-2logL =        10.265730     : AIC =        14.265730    
+Genetic variance(s) for effect  4       
+   5.8000    
+Residual variance(s)
+  0.95408E-05
+inverse of AI matrix (Sampling Variance)
+   13.456       0.0000    
+   0.0000      0.22476E-10
+Correlations from inverse of AI matrix
+   1.0000       0.0000    
+   0.0000       1.0000    
+SE for G
+   3.6682    
+SE for R
+  0.47409E-05
+  
+Sampling variances of covariances function of random effects (n=10000)
+  
+P  - Function: g_4_4_1_1+r_1_1
+  Mean:    5.8000    
+  Sample Mean:    5.7680    
+  Sample SD:    3.7021    
+  
+heritability  - Function: g_4_4_1_1/(g_4_4_1_1+r_1_1)
+  Mean:    1.0000    
+  Sample Mean:    1.0000    
+  Sample SD:   0.17206E-03
+  
+H2  - Function: g_4_4_1_1/(g_4_4_1_1+r_1_1)
+  Mean:    1.0000    
+  Sample Mean:    1.0000    
+  Sample SD:   0.17206E-03

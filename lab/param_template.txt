@@ -1,0 +1,31 @@
+# parameter file for renumf90
+DATAFILE
+ #datafile name here
+SKIP_HEADER
+ #insert the number of lines to skip in the data file
+TRAITS
+ #insert the trait columns you wish to analyse
+FIELDS_PASSED TO OUTPUT
+ #insert the columns you wish to pass as they're to the new datafile
+WEIGHT(S)
+ # leave blank
+RESIDUAL_VARIANCE
+ # enter the residual variance value
+EFFECT
+ #effect_location effect_type data_type
+EFFECT
+  #effect_location effect_type data_type
+EFFECT
+  #effect_location effect_type data_type
+EFFECT
+  #effect_location effect_type data_type
+RANDOM
+  #use "animal" for a start
+FILE
+  #pedigree file name here
+FILE_POS
+  #use 1 2 3 0 0   
+(CO)VARIANCES
+  #insert then additive genetic variance here or the variance covariance matrix if it is a multitrait model 
+
+

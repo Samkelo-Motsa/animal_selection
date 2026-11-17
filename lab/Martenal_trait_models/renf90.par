@@ -1,0 +1,40 @@
+# BLUPF90 parameter file created by RENUMF90
+DATAFILE
+ renf90.dat
+NUMBER_OF_TRAITS
+           1
+NUMBER_OF_EFFECTS
+           5
+OBSERVATION(S)
+    1
+WEIGHT(S)
+ 
+EFFECTS: POSITIONS_IN_DATAFILE NUMBER_OF_LEVELS TYPE_OF_EFFECT[EFFECT NESTED]
+ 2         3 cross 
+ 3         2 cross 
+ 4        14 cross 
+ 5         14 cross
+ 5         14 cross
+RANDOM_RESIDUAL VALUES
+   350.00    
+ RANDOM_GROUP
+     3     4
+ RANDOM_TYPE
+ add_an_upginb
+ FILE
+renadd03.ped                                                                    
+(CO)VARIANCES
+   150.00      -40.000    
+  -40.000       90.000    
+ RANDOM_GROUP
+     5
+ RANDOM_TYPE
+ diagonal     
+ FILE
+                                                                                
+(CO)VARIANCES
+   40.000    
+OPTION method VCE
+OPTION origID
+OPTION sol se
+OPTION solfile samkelo_testing

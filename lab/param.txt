@@ -1,0 +1,31 @@
+# parameter file for renumf90
+DATAFILE
+ data1.txt
+SKIP_HEADER
+ 1
+TRAITS
+ 5
+FIELDS_PASSED TO OUTPUT
+ 1 2 3 4
+WEIGHT(S)
+ 
+RESIDUAL_VARIANCE
+ 1.0
+EFFECT
+ 2 cross alpha
+EFFECT
+  3 cross alpha
+EFFECT
+  4 cov
+EFFECT
+  5 cross alpha
+RANDOM
+  animal  
+FILE
+  ped1.txt
+FILE_POS
+ 1 2 3 0 0   
+(CO)VARIANCES
+  0.2 
+
+

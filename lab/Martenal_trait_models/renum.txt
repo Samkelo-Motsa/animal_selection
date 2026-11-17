@@ -1,0 +1,33 @@
+# parameter file for renumf90
+DATAFILE
+data_mr07a.txt
+TRAITS
+ 6
+FIELDS_PASSED TO OUTPUT
+ 4 5 6
+WEIGHT(S)
+ 
+RESIDUAL_VARIANCE
+ 350
+EFFECT # herd effect
+ 4 cross alpha
+EFFECT # pen effect
+ 5 cross alpha
+EFFECT # additive genetic effect
+ 1 cross alpha
+RANDOM
+  animal  
+OPTIONAL
+mat mpe
+FILE
+pedigree_mr07a.txt
+(CO)VARIANCES
+ 150 -40
+ -40 90 
+(CO)VARIANCES_MPE
+ 40
+ 
+OPTION method VCE
+OPTION origID
+OPTION sol se
+OPTION solfile samkelo_testing

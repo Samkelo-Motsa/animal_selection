@@ -1,0 +1,10 @@
+field     variable  origfield     group    column random    effect     file
+    1        trait          5         0         0 *         cov        *
+    2   renumbered          2         1         1 *         cross      *                                                                               
+    3   renumbered          3         2         1 *         cross      *                                                                               
+    4    covariate          4         0         0 *         cov        *
+    5   renumbered          5         4         1 animal    cross      renadd04.ped                                                                    
+    6       passed          1         0         0 *         cov        *
+    7       passed          2         0         0 *         cov        *
+    8       passed          3         0         0 *         cov        *
+    9       passed          4         0         0 *         cov        *

@@ -1,0 +1,31 @@
+# BLUPF90 parameter file created by RENUMF90
+DATAFILE
+ renf90.dat
+NUMBER_OF_TRAITS
+           1
+NUMBER_OF_EFFECTS
+           4
+OBSERVATION(S)
+    1
+WEIGHT(S)
+ 
+EFFECTS: POSITIONS_IN_DATAFILE NUMBER_OF_LEVELS TYPE_OF_EFFECT[EFFECT NESTED]
+ 2         3 cross 
+ 3         2 cross 
+ 4 1 cov 
+ 5         5 cross 
+RANDOM_RESIDUAL VALUES
+   1.0000    
+ RANDOM_GROUP
+     4
+ RANDOM_TYPE
+ add_an_upginb
+ FILE
+renadd04.ped                                                                    
+(CO)VARIANCES
+  0.20000    
+OPTION method VCE
+OPTION se_covar_function P G_4_4_1_1+R_1_1
+OPTION se_covar_function heritability G_4_4_1_1/(G_4_4_1_1+R_1_1)
+OPTION se_covar_function H2 G_4_4_1_1/(G_4_4_1_1+R_1_1)
+OPTION out_se_covar_function

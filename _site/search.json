@@ -70,8 +70,8 @@
     "text": "The slides included in this lecture are a property of the BLUPF90 development team at the University of Georgia (UGA). They are publicly available on the official BLUPF90 website. All rights and credit belong to the original authors. They are reused here for educational purposes.\n\n Download Slides \n\n\n\n\nIn this lecture, we introduce the concept of genomic selection and the data that makes it possible. We begin by defining what genomic data is and what it looks like in practice from SNP chips and genotype matrices to the marker maps that describe them. We then cover the fundamentals of quality control (QC) for genomic data, including the common filters applied to markers and samples before any analysis, and why these steps are essential for producing reliable genomic predictions.\n\n Download Slides"
   },
   {
-    "objectID": "about.html#lecture-1.-introduction-to-blupf90",
-    "href": "about.html#lecture-1.-introduction-to-blupf90",
+    "objectID": "about.html#lecture-1.-introduction-to-blupf90-family-of-programs",
+    "href": "about.html#lecture-1.-introduction-to-blupf90-family-of-programs",
     "title": "Lectures",
     "section": "",
     "text": "The slides included in this lecture are a property of the BLUPF90 development team at the University of Georgia (UGA). They are publicly available on the official BLUPF90 website. All rights and credit belong to the original authors. They are reused here for educational purposes.\n\n Download Slides"
@@ -131,12 +131,5 @@
     "title": "Special Topics in Animal Selection",
     "section": "2.6 Enhanced editor for Windows users",
     "text": "2.6 Enhanced editor for Windows users\nCommon text editors include Notepad (Windows), TextEdit (macOS), and vi, Emacs, or nano (Linux/Unix). These are the default editors on each system, but you can install other editors for convenience. Notepad, in particular, has too few features to be practical in many cases. There are many free, powerful text editors available for Windows and other platforms.\nBelow are several well-known and free text editors. Some of them are multi-platform and support Linux, macOS, and Windows. Try a few and choose the one that suits you best:\n\nNotepad++ (https://notepad-plus-plus.org) — Windows only\nSciTE (http://www.scintilla.org/SciTE.html) — Windows\nVisual Studio Code (https://code.visualstudio.com) — All platforms"
-  },
-  {
-    "objectID": "about.html#lecture-1.-introduction-to-blupf90-family-of-programs",
-    "href": "about.html#lecture-1.-introduction-to-blupf90-family-of-programs",
-    "title": "Lectures",
-    "section": "",
-    "text": "The slides included in this lecture are a property of the BLUPF90 development team at the University of Georgia (UGA). They are publicly available on the official BLUPF90 website. All rights and credit belong to the original authors. They are reused here for educational purposes.\n\n Download Slides"
   }
 ]

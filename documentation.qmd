@@ -1,0 +1,58 @@
+---
+title: "BLUPF90 Documentation"
+subtitle: "Manuals, Tutorials, and Example Files"
+author:
+  - name: "Samkelo Mlandvo Motsa"
+    affiliation: "National Chung Hsing University, Department of Animal Science, Poultry Breeding and Genetics Laboratory"
+    email: "samkelomotsa9@gmail.com"
+  - name: "Dr. Chih-Feng Chen"
+    affiliation: "National Chung Hsing University, Department of Animal Science, Poultry Breeding and Genetics Laboratory"
+    email: "cfchen@dragon.nchu.edu.tw"
+date: today
+date-format: "MMMM D, YYYY"
+format:
+  html:
+    css: styles.css
+    colorlinks: true
+    number-sections: true
+    respect-user-color-scheme: true
+editor: visual
+---
+
+This page collects the official documentation for the **BLUPF90 family of programs**. These files are provided by the BLUPF90 development team at the University of Georgia (UGA) and are made available here for the convenience of students in this course.
+
+::: callout-note
+The BLUPF90 family of programs and their documentation are the property of the **BLUPF90 development team at the University of Georgia (UGA)**. The original files are publicly available on the [official BLUPF90 website](https://nce.ads.uga.edu/wiki/). All rights and credit belong to the original authors.
+:::
+
+## Available Documents
+
+Complete Manual
+
+The full reference manual covering all BLUPF90-family programs, including input file formats, options, and output descriptions.
+
+{{< downloadthis blupf90_documentation/MANUAL_blupf90_all.pdf dname="BLUPF90 Complete Manual" label="Download Manual" icon="download" type="info" id=btn1 >}}
+
+Tutorial
+
+A step-by-step tutorial that walks you through running the BLUPF90 programs on example datasets. Recommended for first-time users.
+
+{{< downloadthis blupf90_documentation/tutorial_blupf90.pdf dname="BLUPF90 Tutorial" label="Download Tutorial" icon="download" type="info" id=btn2 >}}
+
+Genomic Examples
+
+Worked examples demonstrating genomic prediction and the genomic-related programs in the BLUPF90 family.
+
+{{< downloadthis blupf90_documentation/example_genomic.pdf dname="Genomic Prediction Examples" label="Download Examples" icon="download" type="info" id=btn3 >}}
+
+## How to Use These Documents
+
+1.  **Start with the tutorial** if you are new to BLUPF90. It walks you through a complete analysis from start to finish.
+2.  **Use the manual** as a reference when you need details on a specific option, file format, or program.
+3.  **Consult the genomic examples** when working on genomic prediction tasks.
+
+::: callout-tip
+The documents are also available directly from the [official BLUPF90 documentation page](https://nce.ads.uga.edu/wiki/doku.php?id=documentation). If a file here is outdated, check the official site for the latest version.
+:::
+
+The BLUPF90 family of programs is the property of the **BLUPF90 development team at the University of Georgia (UGA)** and is publicly available on the [official BLUPF90 website](https://nce.ads.uga.edu/wiki/). All rights and credit for the software and its documentation belong to the original authors.

@@ -1,0 +1,36 @@
+DATAFILE
+data_mr07a.txt
+NUMBER_OF_TRAITS
+1
+NUMBER_OF_EFFECTS
+5
+OBSERVATION(S)
+6
+WEIGHT(S)
+
+EFFECTS:
+4 3 cross # herd
+5 2 cross # pen
+1 14 cross # direct genetic effect
+3 14 cross # maternal genetic effect
+3 7 cross # maternal permanent effect
+RANDOM_RESIDUAL VALUES
+350.0
+RANDOM_GROUP
+3 4
+RANDOM_TYPE
+add_animal
+FILE
+pedigree_mr07a.txt
+(CO)VARIANCES
+150.0 -40.0
+-40.0 90.0
+RANDOM_GROUP
+5
+RANDOM_TYPE
+diagonal
+FILE
+
+(CO)VARIANCES
+40.0
+OPTION solv_method FSPAK
